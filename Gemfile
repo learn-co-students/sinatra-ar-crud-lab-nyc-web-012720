@@ -10,6 +10,7 @@ gem 'rspec'
 gem 'rack-test'
 gem 'database_cleaner', '~> 1.6.0'
 gem 'require_all'
+gem 'faker', :git => 'https://github.com/faker-ruby/faker.git', :branch => 'master'
 
 
 group :development do
